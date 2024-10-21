@@ -29,8 +29,18 @@ Kutenda's main goal is to print tickets with reward points for bus drivers who m
 - The app’s data structure includes four bus companies, each with a set of plates and drivers. Each driver can be assigned to multiple plates; all data is tracked in the app's report system.
 - Once the ticket is printed, the app automatically saves it for future reference.
 
+## Tech Stack 🛠️
+* Application Design: Figma
+* Backend: N/A
+* Frontend: Kotlin
 
-## Additional Features ✨
+## Standout Features ✨
 - The app ensures drivers cannot receive two tickets in less than 3-4 hours.
 - All data is saved securely, and reports are accessible to the director for auditing and analysis.
 - Fraud prevention measures include manual verification of license plates and images.
+
+## The Team 🧠
+| Member  | Position | Responsibilities |
+| ------------- | ------------- | ------------- |
+| Enzo Lotchuang  | Developer  | * |
+| Mark Gobriel  | Developer & UX Designer  | * |
