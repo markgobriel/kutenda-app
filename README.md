@@ -1,4 +1,4 @@
-# KUTENDA 🚍🎟️
+# Kutenda
 A reward point system app designed for bus drivers in Cameroon, helping encourage frequent stops at Kutenda Centre. The app rewards drivers with points, promoting increased foot traffic and generating more profit for local businesses.
 
 ## Goal of the App 🎯
